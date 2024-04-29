@@ -9,7 +9,7 @@ def strip_punctuation(line):
     return line
 
 # Import text file
-filepath = 'Text file.txt'
+filepath = 'D:\DATA Science\Appier\Text file.txt'
 
 word_count = {}
 

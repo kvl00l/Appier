@@ -1,2 +1,9 @@
 Our Story
-Appier is a software-as-a-service (SaaS) company that uses artificial intelligence (AI) to power business decision-making. Founded in 2012 with a vision of democratizing AI, Appier’s products are designed to help companies build a holistic view of their customers, understand their preferences, anticipate their actions and ultimately make decisions that lead to better business outcomes. From the humble beginnings of a four-bedroom to having presence in 17 offices across Asia Pacific, U.S. and Europe, Appier currently helps more than 1,600 customers embark on AI-enabled digital transformation in digital marketing.
+Appier is a software-as-a-service (SaaS) company that uses artificial
+ intelligence (AI) to power business decision-making. Founded in 2012 
+with a vision of democratizing AI, Appier’s products are designed to help 
+companies build a holistic view of their customers, understand their 
+preferences, anticipate their actions and ultimately make decisions that 
+lead to better business outcomes. From the humble beginnings of a four-bedroom 
+to having presence in 17 offices across Asia Pacific, U.S. and Europe, 
+Appier currently helps more than 1,600 customers embark on AI-enabled digital transformation in digital marketing.

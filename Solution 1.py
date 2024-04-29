@@ -26,7 +26,9 @@ def most_frequent_word(arr, a):
     print("No of times: " + str(freq))
 
 # Set of keys
-arr = [ "new", "job", "study", "appier", "coding", "to", "appier", "intern", "new", "computer", "science", "data", "appier", "fire", "in", "be", "data", "appier",]
+arr = ["new", "job", "study", "appier", "coding", "to", "appier", 
+       "intern", "new", "computer", "science", "data", "appier", 
+       "fire", "in", "be", "data", "appier",]
 n = len(arr)
 
 # function call
