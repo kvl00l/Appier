@@ -32,7 +32,7 @@ with open(filepath, 'r') as fi:
             # Then, increment it's count by 1
             word_count[word] += 1
 
-# List 5 of the words
+# List 10 of the words
 list(word_count.keys())[:10]
 
 # Traverse those 5 words and print count
@@ -54,7 +54,7 @@ def order_dict_by_freq(dictionary):
     return sorted_values
 
 # Top word
-top_words = order_dict_by_freq(word_count)[:5]
+top_words = order_dict_by_freq(word_count)[:10]
 for tuple_freq in top_words:
     count, word = tuple_freq
     print("{0:15}{1:8}".format(word, count))
