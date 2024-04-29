@@ -1,6 +1,6 @@
 # Solution 1
 
-def mostFrequentWord(arr, a):
+def most_frequent_word(arr, a):
   
     # Freq to store the freq of the most occurring variable
     freq = 0
@@ -30,4 +30,4 @@ arr = [ "new", "job", "study", "appier", "coding", "to", "appier", "intern", "ne
 n = len(arr)
 
 # function call
-mostFrequentWord(arr, n)
+most_frequent_word(arr, n)
