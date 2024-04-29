@@ -1,6 +1,6 @@
 Our Story
 Appier is a software-as-a-service (SaaS) company that uses artificial
- intelligence (AI) to power business decision-making. Founded in 2012 
+intelligence (AI) to power business decision-making. Founded in 2012 
 with a vision of democratizing AI, Appier’s products are designed to help 
 companies build a holistic view of their customers, understand their 
 preferences, anticipate their actions and ultimately make decisions that 

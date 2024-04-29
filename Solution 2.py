@@ -54,7 +54,7 @@ def order_dict_by_freq(dictionary):
     return sorted_values
 
 # Top word
-top_words = order_dict_by_freq(word_count)[:10]
+top_words = order_dict_by_freq(word_count)[:5]
 for tuple_freq in top_words:
     count, word = tuple_freq
-    print("{0:15}{1:8d}".format(word, count))
+    print("{0:15}{1:8}".format(word, count))
