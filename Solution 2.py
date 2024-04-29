@@ -38,7 +38,7 @@ list(word_count.keys())[:10]
 # Traverse those 5 words and print count
 five_words = list(word_count.keys())[:10]
 for word in five_words:
-    # Words minimal take up to 15 spaces; count take minimum 8
+    # Words minimal take up to 15 spaces; count take minimum 8 words
     print("{0:15}{1:8}".format(word, word_count[word]))
 
 # Values of the key
